@@ -1,6 +1,3 @@
-# PyBer_analysis
-# PyBer_analysis
-
 # Project Overview
 
 The purpose of this analysis was to identify ride-sharing trends in urban, suburban, and rural locations. This analysis compared weekly fares accumulated within each city type and presents the data in a line graph to help visually display trends over a 4-month period in 2019.
